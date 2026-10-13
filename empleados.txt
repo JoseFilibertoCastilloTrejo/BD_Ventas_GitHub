@@ -1,0 +1,3 @@
+ID|Nombre|Puesto
+1|Ana Garcia|Vendedor
+2|Pedro Martinez|Administrador
